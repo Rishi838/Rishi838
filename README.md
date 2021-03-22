@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Rishi Dhingra
+- Hi there👋, I’m Rishi Dhingra
 - 👀 I’m interested in learning Sql and full fledge machine learning concepts
 - 🌱 I’m currently learning data structures and algorithms
 - 📫 How to reach me 
