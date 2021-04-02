@@ -5,10 +5,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/rishi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="rishi" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/rishi dhingra" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rishi dhingra" height="30" width="40" /></a>
 <a href="https://instagram.com/rdrishi7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="rdrishi7" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/rishi124" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="rishi124" height="30" width="40" /></a>
-
+<a href="https://www.hackerrank.com/rishi dhingra" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="rishi dhingra" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
