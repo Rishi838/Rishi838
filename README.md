@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rishi Dhingra</h1>
-- 🌱 I’m currently learning **data structures and algorithms**
+- 🌱 I’m currently learning **GUI DEVELOPMENT WITH PYTHON**
 
 - 📫 How to reach me **rishidhingra04@gmail.com**
 
