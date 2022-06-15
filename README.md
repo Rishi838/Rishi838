@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://linkedin.com/in/rishi dhingra"](https://www.linkedin.com/in/rishi-dhingra-118a20203/) target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishi dhingra" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/rishi-dhingra-118a20203/"arget="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishi dhingra" height="30" width="40" /></a>
 <a href="https://www.kaggle.com/rishidhingra321" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="rishi_dhingra321" height="30" width="40" /></a>
 <a href="https://instagram.com/_m_e_s_s_i_a_h_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_m_e_s_s_i_a_h_" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/rishi124" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="rishi124" height="30" width="40" /></a>
