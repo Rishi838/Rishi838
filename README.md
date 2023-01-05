@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **rishidhingra04@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1KWbxaMMvBhK2WOS9TRGH5xySMAiFIMat/view?usp=share_link](https://drive.google.com/file/d/1KWbxaMMvBhK2WOS9TRGH5xySMAiFIMat/view?usp=share_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1T6tsPf6Oi9Lg4Dkyc3xvtNQMT1v-C9YS/view?usp=share_link](https://drive.google.com/file/d/1T6tsPf6Oi9Lg4Dkyc3xvtNQMT1v-C9YS/view?usp=share_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
